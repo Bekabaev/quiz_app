@@ -1,0 +1,360 @@
+<question>To a student, the opportunity cost of going to a football match would include the price of the ticket and the value of the time that could have been spent studying.
+<variantright>True
+<variant>False
+
+<question>When the government redistributes income with taxes and welfare, the economy becomes more efficient.
+<variantright>False
+<variant>True
+
+<question>A tax on alcoholic drinks raises the price of alcoholic drinks and provides an incentive for consumers to drink more.
+<variantright>False
+<variant>True
+
+<question>Rational people act only when the marginal benefit of the action exceeds the marginal cost.
+<variantright>True
+<variant>False
+
+<question>Workers in the countries of Western Europe have a relatively high standard of living because those countries have relatively high minimum wage rates.
+<variantright>False
+<variant>True
+
+<question>Adam Smith's "invisible hand" concept describes how corporate business reaches into the pockets of consumers like an "invisible hand."
+<variantright>False
+<variant>True
+
+<question>Sue is better at cleaning and Bob is better at cooking. It will take fewer hours to eat and clean if Bob specializes in cooking and Sue specializes in cleaning than if they share the household duties evenly.
+<variantright>True
+<variant>False
+
+<question>High and persistent inflation is caused by excessive growth in the quantity of money in the economy.
+<variantright>True
+<variant>False
+
+<question>When a jet flies overhead, the noise it generates is an externality.
+<variantright>True
+<variant>False
+
+<question>The European Union will benefit economically if we eliminate trade with Asian countries because its citizens will be forced to produce more of their own cars and clothes.
+<variantright>False
+<variant>True
+
+<question>An unintended consequence of public support for higher education is that low tuition provides an incentive for many people to attend state universities even if they have no desire to learn anything.
+<variantright>True
+<variant>False
+
+<question>An individual farmer is likely to have market power in the market for wheat.
+<variantright>False
+<variant>True
+
+<question>When economists say, "There is no such thing as a free lunch," they mean that all economic decisions involve trade-offs.
+<variantright>True
+<variant>False
+
+<question>A car manufacturer should continue to produce additional cars as long as the firm is profitable, even if the cost of the additional units exceeds the price received.
+<variantright>False
+<variant>True
+
+<question>In the short run, a reduction in inflation tends to cause a reduction in unemployment.
+<variantright>False
+<variant>True
+
+<question>An advance in production technology would cause the production possibilities curve to shift outward.
+<variantright>True
+<variant>False
+
+<question>Macroeconomics is concerned with the study of how households and firms make decisions and how they interact in specific markets.
+<variantright>False
+<variant>True
+
+<question>The statement, "An increase in inflation tends to cause unemployment to fall in the short run," is normative.
+<variantright>False
+<variant>True
+
+<question>Assumptions make the world easier to understand because they simplify reality and focus our attention.
+<variantright>True
+<variant>False
+
+<question>Most economists believe that tariffs and import quotas usually reduce general economic welfare.
+<variantright>True
+<variant>False
+
+<question>If an economy is operating on its production possibilities frontier, it must be using its resources efficiently.
+<variantright>True
+<variant>False
+
+<question>The production possibilities frontier is bowed outward because the trade-offs between the production of any two goods are constant.
+<variantright>False
+<variant>True
+
+<question>When people act as scientists, they must try to be objective.
+<variantright>True
+<variant>False
+
+<question>Points outside the production possibilities frontier are attainable but inefficient.
+<variantright>False
+<variant>True
+
+<question>Normative statements can be refuted with evidence.
+<variantright>False
+<variant>True
+
+<question>When economists make positive statements, they are more likely to be acting as scientists.
+<variantright>True
+<variant>False
+
+<question>It is reasonable to assume that the world is composed of only one person when modelling international trade.
+<variantright>False
+<variant>True
+
+<question>Economic models must mirror reality or they are of no value.
+<variantright>False
+<variant>True
+
+<question>If an economy is operating on its production possibilities frontier, it must produce less of one good if it produces more of another.
+<variantright>True
+<variant>False
+
+<question>If an economy were experiencing substantial unemployment, the economy is producing inside the production possibilities frontier.
+<variantright>True
+<variant>False
+
+<question>If a producer is self-sufficient, the production possibilities frontier is also the consumption possibilities frontier.
+<variantright>True
+<variant>False
+
+<question>Absolute advantage is a comparison based on productivity.
+<variantright>True
+<variant>False
+
+<question>When a country removes a specific import restriction, it always benefits every worker in that country.
+<variantright>False
+<variant>True
+
+<question>If a country's workers can produce 5 hamburgers per hour or 10 bags of French fries per hour, absent trade, the price of 1 bag of fries is 2 hamburgers.
+<variantright>False
+<variant>True
+
+<question>The gains from trade can be measured by the increase in total production that comes from specialization.
+<variantright>True
+<variant>False
+
+<question>If trade benefits one country, its trading partner must be worse off due to trade.
+<variantright>False
+<variant>True
+
+<question>If an advanced country has an absolute advantage in the production of everything, it will benefit if it eliminates trade with less developed countries and becomes completely self-sufficient.
+<variantright>False
+<variant>True
+
+<question>Comparative advantage is a comparison based on opportunity cost.
+<variantright>True
+<variant>False
+
+<question>If Japan has an absolute advantage in the production of an item, it must also have a comparative advantage in the production of that item.
+<variantright>False
+<variant>True
+
+<question>If Germany's productivity doubles for everything it produces, this will not alter its prior pattern of specialization because it has not altered its comparative advantage.
+<variantright>True
+<variant>False
+
+<question>Comparative advantage, not absolute advantage, determines the decision to specialize in production.
+<variantright>True
+<variant>False
+
+<question>Talented people that are the best at everything have a comparative advantage in the production of everything.
+<variantright>False
+<variant>True
+
+<question>Self-sufficiency is the best way to increase one's material welfare.
+<variantright>False
+<variant>True
+
+<question>If gains from trade are based solely on comparative advantage, and if all countries have the same opportunity costs of production, then there are no gains from trade.
+<variantright>True
+<variant>False
+
+<question>When the price of a good is below the equilibrium price, it causes a surplus.
+<variantright>False
+<variant>True
+
+<question>An oligopolistic market has only a few sellers.
+<variantright>True
+<variant>False
+
+<question>The law of supply states that an increase in the price of a good increases the quantity supplied of that good.
+<variantright>True
+<variant>False
+
+<question>If consumers expect the price of shoes to rise, there will be an increase in the demand for shoes today.
+<variantright>True
+<variant>False
+
+<question>If there is a shortage of a good, then the price of that good tends to fall.
+<variantright>False
+<variant>True
+
+<question>If pencils and paper are complements, an increase in the price of pencils causes the demand for paper to decrease or shift to the left.
+<variantright>True
+<variant>False
+
+<question>The law of demand states that an increase in the price of a good decreases the demand for that good.
+<variantright>False
+<variant>True
+
+<question>An advance in the technology employed to manufacture roller blades will result in a decrease in the equilibrium price and an increase in the equilibrium quantity in the market for roller blades.
+<variantright>True
+<variant>False
+
+<question>A perfectly competitive market consists of products that are all slightly different from one another.
+<variantright>False
+<variant>True
+
+<question>If Coke and Pepsi are substitutes, an increase in the price of Coke will cause an increase in the equilibrium price and quantity in the market for Pepsi.
+<variantright>True
+<variant>False
+
+<question>An increase in the price of steel will shift the supply of cars to the right.
+<variantright>False
+<variant>True
+
+<question>The market supply curve is the horizontal summation of the individual supply curves.
+<variantright>True
+<variant>False
+
+<question>If apples and oranges are substitutes, an increase in the price of apples will decrease the demand for oranges.
+<variantright>False
+<variant>True
+
+<question>If golf clubs and golf balls are complements, an increase in the price of golf clubs will decrease the demand for golf balls.
+<variantright>True
+<variant>False
+
+<question>The price elasticity of supply tends to be more inelastic as the firm's production facility reaches maximum capacity.
+<variantright>True
+<variant>False
+
+<question>The demand for a necessity such as petrol tends to be elastic.
+<variantright>False
+<variant>True
+
+<question>The income elasticity of demand for luxury items, such as diamonds, tends to be large (greater than 1).
+<variantright>True
+<variant>False
+
+<question>If the quantity demanded of a good is sensitive to a change in the price of that good, demand is said to be price inelastic.
+<variantright>False
+<variant>True
+
+<question>The demand for aspirin over one month should be more elastic than the demand for aspirin over one year.
+<variantright>False
+<variant>True
+
+<question>Using the midpoint method to calculate elasticity, if an increase in the price of pencils from €0.10 to €0.20 reduces the quantity demanded from 1000 pencils to 500 pencils, then the demand for pencils is unit price elastic.
+<variantright>True
+<variant>False
+
+<question>An advance in technology that shifts the market supply curve to the right always increases total revenue received by producers.
+<variantright>False
+<variant>True
+
+<question>If the demand for a good is price inelastic, an increase in its price will increase total revenue in that market.
+<variantright>True
+<variant>False
+
+<question>If the price elasticity of supply for blue jeans is 1.3, an increase in the price of blue jeans of 10 percent would increase the quantity supplied of blue jeans by 13 percent.
+<variantright>True
+<variant>False
+
+<question>The price elasticity of demand is defined as the percentage change in the price of that good divided by the percentage change in quantity demanded of that good.
+<variantright>False
+<variant>True
+
+<question>If a demand curve is linear, the price elasticity of demand is constant along it.
+<variantright>False
+<variant>True
+
+<question>The demand for tyres should be more inelastic than the demand for Michelin brand tyres.
+<variantright>True
+<variant>False
+
+<question>If the cross-price elasticity of demand between two goods is positive, the goods are likely to be complements.
+<variantright>False
+<variant>True
+
+<question>The supply of cars for this week is likely to be more price inelastic than the supply of cars for this year.
+<variantright>True
+<variant>False
+
+<question>If the income elasticity of demand for a bus ride is negative, then a bus ride is an inferior good.
+<variantright>True
+<variant>False
+
+<question>If the equilibrium price of petrol is €1.00 per litre and the government places a price ceiling on petrol of €1.50 per litre, the result will be a shortage of petrol.
+<variantright>False
+<variant>True
+
+<question>A price floor set above the equilibrium price is a binding constraint.
+<variantright>True
+<variant>False
+
+<question>A price ceiling that is not a binding constraint today could cause a shortage in the future if demand were to increase and raise the equilibrium price above the fixed price ceiling.
+<variantright>True
+<variant>False
+
+<question>A 10 per cent increase in the minimum wage is more likely to raise unemployment among teenage workers than among mid-career professional workers.
+<variantright>True
+<variant>False
+
+<question>A price floor in a market always creates a surplus in that market.
+<variantright>False
+<variant>True
+
+<question>The minimum wage helps all teenagers because they receive higher wages than they would otherwise.
+<variantright>False
+<variant>True
+
+<question>A €10 tax on football boots will always raise the price that the buyers pay for football boots by €10.
+<variantright>False
+<variant>True
+
+<question>A price ceiling set below the equilibrium price causes a surplus.
+<variantright>False
+<variant>True
+
+<question>The shortage of housing caused by a binding rent control is likely to be more severe in the long run when compared to the short run.
+<variantright>True
+<variant>False
+
+<question>The ultimate burden of a tax falls most heavily on the side of the market that is less elastic.
+<variantright>True
+<variant>False
+
+<question>A tax collected from buyers has an equivalent impact to a same size tax collected from sellers.
+<variantright>True
+<variant>False
+
+<question>If medicine is a necessity, the burden of a tax on medicine will probably fall more heavily on the buyers of medicine.
+<variantright>True
+<variant>False
+
+<question>The government can choose to place the burden of a tax on the buyers in a market by collecting the tax from the buyers rather than the sellers.
+<variantright>False
+<variant>True
+
+<question>When we use the model of supply and demand to analyse a tax collected from the buyers, we shift the demand curve upward by the size of the tax.
+<variantright>False
+<variant>True
+
+<question>A tax creates a tax wedge between a buyer and a seller. This causes the price paid by the buyer to rise, the price received by the seller to fall, and the quantity sold to fall.
+<variantright>True
+<variant>False
+
+<question>Macroeconomics is concerned with the study of how households and firms make decisions and how they interact in specific markets.
+<variantright>False
+<variant>True
+
+<question>If producers have different opportunity costs of production, trade will allow them to consume outside their production possibilities frontiers.
+<variantright>True
+<variant>False
+

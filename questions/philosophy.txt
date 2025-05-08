@@ -1,0 +1,1371 @@
+<question>The specificity of the mythological worldview:
+<variantright>The unity of man and the world
+<variant>Logical representation of the world
+<variant>Believing in one God
+<variant>Reasoning and proving
+<variant>Expressing inner side of the man
+
+<question>Philosophical worldview has its own specifics:
+<variant>based on the logical method of cognition
+<variant>based on the rational level of knowledge
+<variant>has its own set of concepts, categories, special terms.
+<variant>is a system of knowledge
+<variantright>all answers are correct
+
+<question>The object of philosophy:
+<variant>the man and society
+<variant>the nature and the god
+<variantright>the being and reality
+<variant>the world and the man
+<variant>mind and thinking
+
+<question>The subject of philosophy is:
+<variantright>the most general laws and patterns of development and functioning of human society, thinking and the universe
+<variant>the fundamental principles of being
+<variant>The Arche
+<variant>the man in the world
+<variant>space and time
+
+<question>The main divisions of philosophy:
+<variant>Sociology, culture, myth, religion
+<variant>Physics, psychology, chemistry
+<variant>Science, art, moral, politics
+<variantright>Gnoseology, ontology, ethics, aesthetics
+<variant>Worldview, religion, mythology
+
+<question>Which function doesn’t belong to philosophy:
+<variant>Worldview
+<variantright>Scientific
+<variant>Ideological
+<variant>Critical
+<variant>Methodological
+
+<question>The basic question of philosophy:
+<variantright>What is primary: consciousness or matter?
+<variant>What is primary: egg or hen?
+<variant>What is primary: man or nature?
+<variant>To be or not to be?
+<variant>What is the essence of life?
+
+<question>The other side of the basic question of philosophy:
+<variantright>Relation of thinking to being
+<variant>Is there the God?
+<variant>What is the meaning of life?
+<variant>Who created the man?
+<variant>What is reality?
+
+<question>Solution of the basic question of philosophy:
+<variant>Gnosticism and agnosticism
+<variant>Dualism and monism
+<variantright>Materialism and idealism
+<variant>Naturalism and sociologism
+<variant>Theism and atheism
+
+<question>Solution of the other side of the basic question of philosophy:
+<variantright>Gnosticism and agnosticism
+<variant>Dualism and monism
+<variant>Materialism and idealism
+<variant>Naturalism and sociologism
+<variant>Theism and atheism
+
+<question>Metaphysics in philosophy states:
+<variant>the world is unreal
+<variant>the world is flux
+<variant>the world is static, unchanging
+<variantright>the world is real
+<variant>the world is complex
+
+<question>Dialectics in philosophy states:
+<variant>the world is unreal
+<variantright>the world is flux
+<variant>the world is static, unchanging
+<variant>the world is real
+<variant>the world is complex
+
+<question>Consciousness is state of:
+<variant>mental
+<variant>perception
+<variant>sensation
+<variantright>thinking
+<variant>feeling
+
+<question>The central problem of Consciousness:
+<variant>Ideality
+<variant>Reality
+<variantright>Mind and body
+<variant>Truth
+<variant>Qualia
+
+<question>What does NOT belong to Sensory knowledge?
+<variant>sensations
+<variant>perceptions
+<variant>representations
+<variantright>reasoning
+<variant>imagination
+
+<question>What does NOT belong to Rational knowledge?
+<variant>concepts
+<variant>judgments
+<variant>conclusions
+<variantright>intuition
+<variant>theories
+
+<question>True being according to Plato:
+<variant>atoms
+<variantright>ideas
+<variant>things
+<variant>souls
+<variant>god
+
+<question>Being according to Aristotle:
+<variantright>substance
+<variant>predicate
+<variant>quality
+<variant>quantity
+<variant>idea
+
+<question>Being according to Heidegger:
+<variant>essence
+<variant>substance
+<variantright>existence
+<variant>reality
+<variant>ideality
+
+<question>Human according to Social Darwinism is:
+<variant>symbolic animal
+<variant>organism
+<variant>sentient being
+<variant>moral being
+<variantright>social being
+
+<question>Human according to Marxism:
+<variant>symbolic animal
+<variant>organism
+<variant>sentient being
+<variant>moral being
+<variantright>social being
+
+<question>Human according to Descartes:
+<variant>symbolic animal
+<variant>organism
+<variantright>rational being
+<variant>moral being
+<variant>social being
+
+<question>Moral is an object of study of:
+<variant>axiology
+<variant>epistemology
+<variant>aesthetics
+<variantright>ethics
+<variant>logics
+
+<question>«Things-in-itself» by Kant is:
+<variant>Things we can cognize
+<variantright>Things we cannot cognize
+<variant>Things existing
+<variant>Things non-existing
+<variant>Ideal things
+
+<question>«Noumena» by Kant is:
+<variantright>Unknowable world
+<variant>Knowable world
+<variant>Reality
+<variant>Sensual images of objects
+<variant>Existence
+
+<question>«Phenomena» by Kant is:
+<variant>World
+<variant>Reality
+<variantright>Sensual images of objects
+<variant>Essence
+<variant>Existence
+
+<question>Tengrism can be defined as:
+<variant>Monotheism
+<variant>Deism
+<variantright>System of beliefs
+<variant>Philosophy
+<variant>Theism
+
+<question>Shamanism is a form of:
+<variant>Spiritualism
+<variant>Totemism
+<variantright>Magic
+<variant>Mythology
+<variant>Religion
+
+<question>Combination of different Beliefs, Faiths, Thoughts in one Unique Thinking System is called:
+<variantright>Syncretism
+<variant>Natural philosophy
+<variant>Science
+<variant>Mythology
+<variant>Religion
+
+<question>Levy-Bruhl explained this quality by saying that the primitive mentality obeys something he called ‘the law of participation,’ which means that thoughts can be joined by connections which have nothing in common with those of our logic. What did he mean?:
+<variantright>Animism
+<variant>Totemism
+<variant>Mythology
+<variant>Magic
+<variant>Spiritualism
+
+<question>Kazakh nomads had various cults and rites. Which one was essential for Kazakh worldview?:
+<variantright>Cult of ancestors
+<variant>Cult of the Sun
+<variant>Cult of the fire
+<variant>Cult of the earth
+<variant>Cult of the sky
+
+<question>What is the name of the philosophical system of Marxism?:
+<variant>Objective idealism
+<variant>Subjective idealism
+<variant>Mechanical materialism
+<variantright>Dialectical materialism
+<variant>Metaphysical materialism
+
+<question>The central category of Marx’s Historical materialism:
+<variant>Politics
+<variant>Economics
+<variant>Forms of social consciousness
+<variantright>Social-economic formation
+<variant>Industrial relations
+
+<question>Freedom in accordance with the teachings of Baruch Spinoza is:
+<variant>Human will
+<variant>God’s will
+<variant>Human action
+<variantright>Recognized necessity
+<variant>Natural law
+
+<question>In the irrational philosophy of Søren Kierkegaard, the central problem is:
+<variant>The essence of man
+<variant>Rational thinking
+<variant>The problem of truth
+<variantright>Human existence
+<variant>Knowledge of God
+
+<question>The ethical ideal of Nietzsche's philosophy is:
+<variant>Hedonist
+<variant>Christian
+<variant>Muslim
+<variant>Stoic
+<variantright>Superman
+
+<question>The main philosophical categories of Albert Camus:
+<variant>Being and thinking
+<variantright>Absurdity and rebellion
+<variant>Existence and non-existence
+<variant>Essence and existence
+<variant>Life and death
+
+<question>Why does Jean-Paul Sartre believe that Existentialism is humanism?
+<variant>Man is a free creature
+<variantright>Man himself determines his existence
+<variant>Man loves
+<variant>Man is a god-like creature
+<variant>Man creates
+
+<question>What layer of the human psyche was discovered by Sigmund Freud?
+<variant>Thinking
+<variantright>Unconscious
+<variant>Archetypes
+<variant>Imagination
+<variant>Memory
+
+<question>What ancient Greek philosopher believed that the main task was self-knowledge:
+<variant>Plato
+<variantright>Socrates
+<variant>Aristotle
+<variant>Thales
+<variant>Plotinus
+
+<question>Translation of the word “axiology”:
+<variantright>Study of values
+<variant>Cosmo centrism
+<variant>Love Theo
+<variant>Pantheism
+<variant>Love Humanity
+
+<question>“There are only two substances in the beginning of the world – thinking and extended substances (dualism)” is from the philosophy of:
+<variant>E. Kant
+<variant>D. Hume
+<variantright>R. Descartes
+<variant>J.-P. Sartre
+<variant>Protagoras
+
+<question>Theory of scientific knowledge is called as:
+<variant>Cognition
+<variantright>Epistemology
+<variant>Social philosophy
+<variant>Feeling
+<variant>Axiology
+
+<question>The object of philosophy is:
+<variant>Cognition process and the place of man in this world
+<variantright>World in whole and the place of man in this world
+<variant>Human being
+<variant>Truth, unconcealment
+<variant>Mind at whole
+
+<question>Ethics is:
+<variant>A study of nature, origin, and limits of human cognition
+<variant>A study of wisdom
+<variantright>A study of morality and moral behavior
+<variant>Branch of physics
+<variant>World religion
+
+<question>Aesthetics is:
+<variant>A study of nature, origin, and limits of human cognition
+<variant>A philosophical study of principles, moral and human behavior
+<variantright>A study of beauty and art
+<variant>One of the directions of Buddhism
+<variant>Philosophy as a system
+
+<question>The first historical type of outlook that is considered as a system of ancient legends:
+<variant>Philosophy
+<variant>Science
+<variant>Ethics
+<variantright>Mythology
+<variant>Theology
+
+<question>Faith in the supernatural force(s), which is based on a strong system of moral norms and the special organization of people, is:
+<variantright>Religion
+<variant>Ontology
+<variant>Physics
+<variant>Epicureanism
+<variant>Substantialism
+
+<question>The Socratic ethical rationalism was formulated as:
+<variant>Virtue is religion
+<variant>Virtue is arts
+<variantright>Virtue is knowledge
+<variant>Virtue is war
+<variant>Virtue is interests
+
+<question>One of the outstanding French existentialists:
+<variant>David Hume
+<variant>Georg Hegel
+<variantright>Albert Camus
+<variant>Francis Bacon
+<variant>Martin Heidegger
+
+<question>Division to Subjective spirit, Objective spirit, Absolute spirit comes from the philosophy of:
+<variant>Fichte
+<variantright>Hegel
+<variant>Kant
+<variant>Schelling
+<variant>Marx
+
+<question>Ancient eastern philosophy developed mainly in:
+<variantright>India and China
+<variant>India and Japan
+<variant>Persia and China
+<variant>Egypt and China
+<variant>India and Korea
+
+<question>“Act only on that maxim through which you can at the same time will that it becomes a universal law” is:
+<variant>The Hegel’s Categorical Imperative
+<variantright>The Kant’s Categorical Imperative
+<variant>The Kant’s Hypothetical Imperative
+<variant>The Fichte’s Hypothetical Imperative
+<variant>The Hegel’s Hypothetical Imperative
+
+<question>The famous Descartes’s formula “Cogito, ergo sum” is translated from Latin as:
+<variant>I think, therefore, I have truth
+<variant>I think, therefore, I have power
+<variant>I think, therefore, I have faith
+<variantright>I think, therefore, I exist
+<variant>I think, therefore, I have values
+
+<question>Universal law in Indian philosophy, which operates in the past, present, and future, is called:
+<variant>Thinking
+<variant>Experience
+<variant>Analysis
+<variant>Induction
+<variantright>Karma
+
+<question>The first Fr. Baconian idol of all human mind is:
+<variant>Cave
+<variant>Marketplace
+<variantright>Tribe
+<variant>Theatre
+<variant>Mind
+
+<question>The second Fr. Baconian idol of personal mind is:
+<variantright>Cave
+<variant>Marketplace
+<variant>Tribe
+<variant>Theatre
+<variant>Mind
+
+<question>The third Fr. Baconian idol of mind referred to using terms and words is:
+<variant>Cave
+<variantright>Marketplace
+<variant>Tribe
+<variant>Theatre
+<variant>Mind
+
+<question>The fourth Fr. Baconian idol of mind referred to authorities is:
+<variant>Cave
+<variant>Marketplace
+<variant>Tribe
+<variantright>Theatre
+<variant>Mind
+
+<question>The doctrine about that knowledge is based on experience is:
+<variantright>Empiricism
+<variant>Rationalism
+<variant>Agnosticism
+<variant>Abstract general ideas
+<variant>Complexity
+
+<question>E. Kant’s categorical imperative is about:
+<variant>There’s no place like home
+<variant>The world is round
+<variantright>Moral problems
+<variant>Everybody everywhere is pretty much the same
+<variant>Physical problems
+
+<question>The translation of the word “philosophy”:
+<variant>Pantheism
+<variantright>Love of wisdom
+<variant>Cosmo centrism
+<variant>Love Theo
+<variant>Love Human
+
+<question>The word “Sophist” is translated from Greek as:
+<variantright>Wise man
+<variant>Warrior
+<variant>Judge
+<variant>Man
+<variant>Thinker
+
+<question>He was called “the first teacher”:
+<variant>Socrates
+<variantright>Aristotle
+<variant>Plato
+<variant>Diogenes
+<variant>Heraclitus
+
+<question>What beginning (Arche) did Heraclitus recognize?
+<variantright>Logos (fire)
+<variant>Virtue
+<variant>Intelligence
+<variant>Honor
+<variant>Pleasure
+
+<question>What beginning did Pythagoras recognize?
+<variantright>Numbers
+<variant>Dialectical argument
+<variant>Rational instruction
+<variant>Learning from our mistakes
+<variant>Breathing
+
+<question>A teaching of Aristotle is called as:
+<variant>Academicism
+<variantright>Peripatetism
+<variant>Buddhism
+<variant>Atheism
+<variant>Pantheism
+
+<question>Under the Renaissance human was considered to be as:
+<variant>Man is a political creature
+<variant>Man is a thinking being
+<variant>Man is a religious being
+<variantright>Human is a creator, artist, enriched microcosm
+<variant>Man is a sinner
+
+<question>“I know that I know nothing” was proclaimed by:
+<variant>Thales
+<variant>Pythagoras
+<variant>Democritus
+<variant>Seneca
+<variantright>Socrates
+
+<question>A thinker who formulated 5 proofs of existence of God:
+<variant>Augustine
+<variant>Erasmus of Rotterdam
+<variantright>Thomas Aquinas
+<variant>Machiavelli
+<variant>Abelard
+
+<question>Myth of the Cave was developed by:
+<variant>Augustine
+<variant>Erasmus of Rotterdam
+<variantright>Plato
+<variant>Machiavelli
+<variant>Abelard
+
+<question>Theocentrism provides that in the center of the universe is:
+<variantright>God
+<variant>Something mystical
+<variant>Poetics
+<variant>Human
+<variant>Science
+
+<question>Defining characteristic of the religious outlook is:
+<variant>Belief in art or superstitions
+<variant>Belief in contemptuous attitude to science, the denial of their validity
+<variant>Belief in wisdom
+<variantright>Belief in the supernatural, otherworldly forces, having the opportunity to influence the course of world events
+<variant>Belief in denial of human freedom, the belief that all actions are originally defined by God
+
+<question>One of the main characteristics of the Renaissance is:
+<variant>Atheism
+<variant>Theologism
+<variant>Sociocentrism
+<variant>Cosmocentrism
+<variantright>Anthropocentrism
+
+<question>Creationism is the idea that the world and mankind were created by:
+<variantright>God
+<variant>Something mystical
+<variant>Poetics
+<variant>Human
+<variant>Science
+
+<question>Searching for human individuality is the specific feature of Philosophy of:
+<variant>Conventionalism
+<variant>Life
+<variantright>Existentialism
+<variant>Rationalism
+<variant>Conformism
+
+<question>The idea that destinies of the world and people are determined by God is:
+<variant>Freedom
+<variant>Desire
+<variant>Canon
+<variantright>Providentialism
+<variant>Emotions
+
+<question>Who offered psychoanalytic theory in human nature?
+<variant>Leonardo da Vinci
+<variant>Nicholas of Cusa
+<variant>Lorenzo Valla
+<variant>Tommaso Campanella
+<variantright>Sigmund Freud
+
+<question>“Thus Spoke Zarathustra” is a work of:
+<variant>R. Descartes
+<variantright>F. Nietzsche
+<variant>Albert Camus
+<variant>Karl Marx
+<variant>Martin Heidegger
+
+<question>Branch of philosophy that studies historical knowledge and interpretation of the historical process:
+<variantright>Philosophy of history
+<variant>Logics
+<variant>Ontology
+<variant>History of philosophy
+<variant>Epistemology
+
+<question>The definition of socio-economic formation in materialism was first developed by:
+<variant>Engels
+<variant>Stalin
+<variantright>Marx
+<variant>Rousseau
+<variant>Lenin
+
+<question>Who is the author of the books “Either/or,” “Fear and Trembling”?
+<variant>Rousseau
+<variant>Lenin
+<variantright>Kierkegaard
+<variant>Marx
+<variant>Sartre
+
+<question>Who indicated the difference between conscious and unconscious in the human mind?
+<variant>Plato
+<variantright>Freud
+<variant>Hume
+<variant>Marx
+<variant>Sartre
+
+<question>Aesthetic values are:
+<variant>Love, friendship
+<variantright>Beauty, art, harmony, style
+<variant>Civil rights
+<variant>Freedom of word and personality
+<variant>Social justice
+
+<question>“God is dead” said:
+<variantright>F. Nietzsche
+<variant>Heraclitus
+<variant>Plato
+<variant>E. Kant
+<variant>F. Hegel
+
+<question>What are the main founders of philosophy of existentialism:
+<variant>Camus, Freud, Florensky
+<variantright>Camus, Sartre, Kierkegaard
+<variant>Sartre, Spengler, Schelling, B. Russell
+<variant>I. Kant, Freud, Florensky
+<variant>Russell, Popper, Adler
+
+<question>“The man of absurd” according to Albert Camus is one who understands:
+<variant>Essence of life
+<variant>Meaning of life
+<variantright>Meaningless of existence
+<variant>Philosophy
+<variant>Others
+
+<question>“The man of rebellion” according to Albert Camus is one who states:
+<variant>I think, therefore I exist
+<variantright>I rebel, therefore I exist
+<variant>I doubt, therefore I exist
+<variant>I agree, therefore I exist
+<variant>I argue, therefore I exist
+
+<question>“Borderline situations” according to Sartre is the situation when a man becomes aware of:
+<variant>Purpose of his life
+<variant>Problems
+<variant>Conflicts
+<variant>The meaning of his life
+<variantright>His coming death
+
+<question>According to Sartre, man is:
+<variantright>A project of himself
+<variant>A social animal
+<variant>Microcosmos
+<variant>Symbolic animal
+<variant>God’s project
+
+<question>According to Sigmund Freud, “Neurotic” is:
+<variant>A crazy man
+<variantright>A healthy person with neurotic symptoms
+<variant>A schizophrenic person
+<variant>An anxious man
+<variant>A sick person
+
+<question>According to Sigmund Freud, “The Unconscious” is:
+<variant>Ego
+<variant>Super Ego
+<variantright>Id
+<variant>Other Ego
+<variant>Animus
+
+<question>According to Carl Gustav Jung, “Archetypes” are:
+<variant>Symbols of Individual Unconscious
+<variant>Dreams
+<variantright>Symbols of Collective Unconscious
+<variant>Myths
+<variant>Spirits
+
+<question>According to Carl Gustav Jung, human behavior is determined by:
+<variant>Individual unconsciousness
+<variant>Environment
+<variant>Education
+<variant>Parents
+<variantright>Collective unconsciousness
+
+<question>According to Sigmund Freud, human behavior is determined by three authorities:
+<variant>Mind, will, desire
+<variantright>Ego, Id, Super Ego
+<variant>Body, mind, soul
+<variant>Father, mother, teacher
+<variant>Nanny, teacher, boss
+
+<question>According to S. Kierkegaard, the main problem of philosophy is:
+<variant>Human essence
+<variantright>Human existence
+<variant>Human origin
+<variant>Human mind
+<variant>Human body
+
+<question>S. Kierkegaard wanted to understand why:
+<variant>Man is an animal
+<variant>Man is social
+<variantright>Man was thrown into the world
+<variant>Man is evil
+<variant>Man is kind
+
+<question>According to F. Nietzsche, human manifests themselves in:
+<variant>Will to die
+<variant>Will to live
+<variantright>Will to power
+<variant>Will to kill
+<variant>Will to know
+
+<question>According to F. Nietzsche, Superman is a person who:
+<variant>Does not like people
+<variant>Does not suffer
+<variant>Does not like moral
+<variant>Does not die
+<variantright>Does not believe in God
+
+<question>Which ones are the typical Kazakh mythological forms?
+<variant>Totemism and animism
+<variantright>Tengrism and shamanism
+<variant>Magic and spiritualism
+<variant>Polytheism and paganism
+<variant>Pantheism and fetishism
+
+<question>Philosophy of Marxism is called:
+<variant>Metaphysical materialism
+<variantright>Dialectical materialism
+<variant>Historical materialism
+<variant>Objective idealism
+<variant>Subjective materialism
+
+<question>Socio-political theory of Marxism is called:
+<variant>Metaphysical materialism
+<variant>Dialectical materialism
+<variantright>Historical materialism
+<variant>Objective idealism
+<variant>Subjective materialism
+
+<question>Philosophical method of Marxism is called:
+<variant>Metaphysics
+<variantright>Dialectics
+<variant>Deduction
+<variant>Induction
+<variant>Analogy
+
+<question>The idea of Communism in Marxism represents:
+<variant>Class society
+<variantright>Classless society
+<variant>Perfect society
+<variant>Free society
+<variant>Rich society
+
+<question>Historical type of societies in Marxism is called:
+<variant>Basis and superstructure
+<variantright>Social economic formation
+<variant>Class society
+<variant>Classless society
+<variant>Ideal society
+
+<question>What is Consciousness?
+<variant>Function of brain
+<variant>Reflection of reality
+<variant>Self-awareness
+<variant>Ideality
+<variantright>All of them
+
+<question>Elements of Consciousness according to A. G. Spirkin:
+<variant>Sensual
+<variant>Rational
+<variant>Value
+<variant>Motivation
+<variantright>All of them
+
+<question>Which property of consciousness describes the immaterial essence of consciousness?
+<variantright>Ideality
+<variant>Intentionality
+<variant>Ideationality
+<variant>Reflection
+<variant>Self-awareness
+
+<question>Who is Homo Sapiens?
+<variantright>Man with thinking
+<variant>Man with feelings
+<variant>Man with hands
+<variant>Man with eyes
+<variant>Man with soul
+
+<question>Consciousness according to theory of Dualism:
+<variant>Material substance
+<variant>Ideationality
+<variantright>Immaterial substance
+<variant>Reflection
+<variant>Self-awareness
+
+<question>Consciousness according to theory of Darwinism:
+<variant>Property of man
+<variant>Ideal property
+<variant>Reflection of man
+<variant>Self-awareness
+<variantright>Highest property of brain
+
+<question>Consciousness according to theory of Logical behaviorism:
+<variant>Thoughts
+<variant>Speech
+<variantright>Acts
+<variant>Instincts
+<variant>Awareness
+
+<question>Self-consciousness is the characteristic of consciousness which describes:
+<variant>Intentionality
+<variant>Ideationality
+<variant>Reflection
+<variant>Ideality
+<variantright>Self-awareness
+
+<question>Language is:
+<variantright>Outer side of consciousness
+<variant>Inner side of consciousness
+<variant>All ideas
+<variant>Reflective organ
+<variant>Self-awareness
+
+<question>What is Ontology?
+<variant>Study of mind
+<variantright>Study of Being
+<variant>Study of nature
+<variant>Study of god
+<variant>Study of man
+
+<question>What the term "metaphysics" means?
+<variant>Something real
+<variantright>What comes after physics
+<variant>Something unreal
+<variant>Unknowable
+<variant>Knowable
+
+<question>What is Being?
+<variant>Real
+<variantright>Category for existence
+<variant>Spiritual
+<variant>Mental
+<variant>Related to humans
+
+<question>What is the problem of Being?
+<variant>What is world
+<variantright>What is the essence of the world
+<variant>What is reality
+<variant>What is god
+<variant>What is mind
+
+<question>What is Substance?
+<variant>Matter
+<variantright>Independent entity
+<variant>Spirit
+<variant>Predicates of things
+<variant>Essence of things
+
+<question>Who said: "Being is, but there is not non-being"?
+<variant>Socrates
+<variantright>Parmenides
+<variant>Aristotle
+<variant>Plato
+<variant>Plotinus
+
+<question>Who said: "If something denotes the essence of a thing, then it makes sense that being for it does not lie in something else"?
+<variant>Socrates
+<variant>Parmenides
+<variantright>Aristotle
+<variant>Plato
+<variant>Plotinus
+
+<question>Who said: "Being is One"?
+<variant>Socrates
+<variantright>Parmenides
+<variant>Aristotle
+<variant>Plato
+<variant>Plotinus
+
+<question>Who said: "Being is God"?
+<variant>Socrates
+<variantright>Christianity
+<variant>Aristotle
+<variant>Plato
+<variant>Plotinus
+
+<question>Who said: "Being is Two"?
+<variant>Socrates
+<variantright>Descartes
+<variant>Aristotle
+<variant>Plato
+<variant>Plotinus
+
+<question>Who said: "Being is plural"?
+<variant>Socrates
+<variantright>Leibniz
+<variant>Aristotle
+<variant>Plato
+<variant>Plotinus
+
+<question>Who said: "Being is Absolute Idea"?
+<variant>Socrates
+<variantright>Hegel
+<variant>Aristotle
+<variant>Plato
+<variant>Plotinus
+
+<question>Who said: "Being is Man"?
+<variant>Socrates
+<variantright>Heidegger
+<variant>Aristotle
+<variant>Plato
+<variant>Plotinus
+
+<question>Forms of Being:
+<variant>Natural
+<variantright>All of them
+<variant>Spiritual
+<variant>Human
+<variant>Social
+
+<question>What is Matter?
+<variant>Ideal being
+<variantright>Material being
+<variant>Spiritual being
+<variant>Divine being
+<variant>Social being
+
+<question>Attributes of Matter:
+<variant>Movement
+<variantright>All of them
+<variant>Time
+<variant>Space
+<variant>Reflection
+
+<question>Forms of Motion:
+<variant>Physical
+<variantright>All of them
+<variant>Chemical
+<variant>Biological
+<variant>Social
+
+<question>What is Development?
+<variant>Motion from down to up
+<variantright>Motion from simple to complex
+<variant>Motion from low to high
+<variant>Motion from left to right
+<variant>Motion from up to down
+
+<question>Two concepts of Development:
+<variant>Regress and progress
+<variantright>Metaphysical and dialectical
+<variant>Cyclic and linear
+<variant>Eternal return
+<variant>Stagnation and change
+
+<question>Types of space:
+<variant>Wide
+<variantright>Three-dimensional
+<variant>Narrow
+<variant>Virtual
+<variant>Cosmos
+
+<question>Types of time:
+<variant>Physical
+<variantright>All of them
+<variant>Psychological
+<variant>Biological
+<variant>Social
+
+<question>Philosophical category which describes visible and invisible sides of things:
+<variant>Content and form
+<variantright>Essence and phenomenon
+<variant>Cause and effect
+<variant>Necessity and contingency
+<variant>Possibility and reality
+
+<question>Philosophical category which describes inner and outer side of things:
+<variantright>Content and form
+<variant>Essence and phenomenon
+<variant>Cause and effect
+<variant>Necessity and contingency
+<variant>Possibility and reality
+
+<question>Philosophical category which describes determinism:
+<variant>Content and form
+<variant>Essence and phenomenon
+<variantright>Cause and effect
+<variant>Necessity and contingency
+<variant>Possibility and reality
+
+<question>What is cognition?
+<variant>Thinking about something
+<variantright>Mastering knowledge
+<variant>Working on a book
+<variant>Imagining something
+<variant>Awareness of something
+
+<question>What is knowledge?
+<variant>Books
+<variantright>Information
+<variant>Traditions
+<variant>Customs
+<variant>Opinion
+
+<question>What is common between Knowledge and Cognition?
+<variant>They are the same
+<variantright>Knowledge is the result of cognitive process
+<variant>They are different
+<variant>Both are processes
+<variant>Cognition needs prior knowledge
+
+<question>What is Epistemology?
+<variantright>Theory of knowledge
+<variant>Theory of scientific knowledge
+<variant>Theory of technology
+<variant>Theory of methods
+<variant>Theory of philosophical knowledge
+
+<question>What is Gnoseology?
+<variantright>Theory of knowledge
+<variant>Theory of scientific knowledge
+<variant>Theory of technology
+<variant>Theory of methods
+<variant>Theory of philosophical knowledge
+
+<question>What is Gnosticism?
+<variant>Cognitive pessimism
+<variantright>Cognitive optimism
+<variant>Cognitive disbelief
+<variant>Cognitive doubts
+<variant>Cognitive negation
+
+<question>What is Agnosticism?
+<variant>Cognitive pessimism
+<variant>Cognitive optimism
+<variantright>Cognitive disbelief
+<variant>Cognitive doubts
+<variant>Cognitive negation
+
+<question>What is Skepticism?
+<variant>Cognitive pessimism
+<variant>Cognitive optimism
+<variant>Cognitive disbelief
+<variantright>Cognitive doubts
+<variant>Cognitive negation
+
+<question>Which ideas are TRUE according to Descartes’ "Theory of Ideas"?
+<variant>Mind ideas
+<variantright>Innate ideas
+<variant>Sensory ideas
+<variant>Authorities’ ideas
+<variant>Common sense
+
+<question>Who believed that TRUTH can be proved in the process of socio-historical practice?
+<variant>Hegel
+<variantright>Marx
+<variant>Kant
+<variant>Bacon
+<variant>Locke
+
+<question>Who believed that we can cognize only Phenomena?
+<variant>Hegel
+<variant>Marx
+<variantright>Kant
+<variant>Bacon
+<variant>Locke
+
+<question>Type of Cognition based on Conceptual understanding of reality:
+<variant>Ordinary cognition
+<variantright>Scientific cognition
+<variant>Practical cognition
+<variant>Artistic cognition
+<variant>Moral cognition
+
+<question>Levels of Cognition:
+<variant>Ordinary and theoretical
+<variantright>Sensual and rational
+<variant>Basic and complex
+<variant>Lower and higher
+<variant>Everyday and scientific
+
+<question>What is Judgment?
+<variantright>Statement reflecting the things and their properties
+<variant>Logical image that reproduces the essential properties of objects
+<variant>Deduction from several interrelated judgments of a new judgment
+<variant>Comprehend the truth by seeing it clear
+<variant>Integral image of an object in the unity reflected through sensations
+
+<question>What is Concept?
+<variant>Statement reflecting the things and their properties
+<variantright>Logical image that reproduces the essential properties of objects
+<variant>Deduction from several interrelated judgments of a new judgment
+<variant>Comprehend the truth by seeing it clear
+<variant>Integral image of an object in the unity reflected through sensations
+
+<question>What is Inference?
+<variant>Statement reflecting the things and their properties
+<variant>Logical image that reproduces the essential properties of objects
+<variantright>Deduction from several interrelated judgments of a new judgment
+<variant>Comprehend the truth by seeing it clear
+<variant>Integral image of an object in the unity reflected through sensations
+
+<question>What is Intuition?
+<variant>Statement reflecting the things and their properties
+<variant>Logical image that reproduces the essential properties of objects
+<variant>Deduction from several interrelated judgments of a new judgment
+<variantright>Comprehend the truth by seeing it clear
+<variant>Integral image of an object in the unity reflected through sensations
+
+<question>What is Truth in the Classical sense?
+<variantright>Truth is the correspondence of knowledge to reality
+<variant>This is what is confirmed by experience
+<variant>Is a kind of agreement – a convention
+<variant>Usefulness of the knowledge gained
+<variant>Effectiveness of its use in practice
+
+<question>What is correct about Fallacy?
+<variant>Deliberate distortion of truth
+<variant>Is the essential part of the cognitive process
+<variant>Lie
+<variantright>Is the fail of the cognitive process
+<variant>Ideological essence of cognition
+
+<question>Axiology studies:
+<variant>Notions
+<variantright>Values
+<variant>Norms
+<variant>Taboos
+<variant>Laws
+
+<question>Absolute values:
+<variant>Yin - Yang
+<variantright>Truth, beauty, good
+<variant>Justice, injustice
+<variant>God
+<variant>Human health
+
+<question>Classification of values by carrier:
+<variant>Material, spiritual
+<variantright>Individual, supra-individual
+<variant>Economical, political
+<variant>Social, family
+<variant>Absolute, specific
+
+<question>Classification of values by existence:
+<variantright>Material, spiritual
+<variant>Individual, supra-individual
+<variant>Economical, political
+<variant>Social, family
+<variant>Absolute, specific
+
+<question>What is Ethics?
+<variant>Theory of art
+<variantright>Theory of morality
+<variant>Theory of society
+<variant>Theory of religion
+<variant>Theory of nature
+
+<question>What is Morality?
+<variant>Social regulation form through beauty-ugly
+<variantright>Social regulation form through good-bad
+<variant>Social regulation form through justice-injustice
+<variant>Social regulation form through useful-useless
+<variant>Social regulation form through faith-denial
+
+<question>Why is Ethics a practical science?
+<variant>It is studied to know what is good
+<variantright>It is studied in order to become virtuous
+<variant>It is studied to learn what is evil
+<variant>It is studied to know more
+<variant>It is studied to get wisdom
+
+<question>Difference between Morality and Mores?
+<variant>No difference
+<variantright>Difference between what is Due and what is Real
+<variant>Norms and ideals
+<variant>Good and bad
+<variant>Weak and strong
+
+<question>Main Christian values:
+<variantright>Faith, hope, love
+<variant>Patience, joy, anger
+<variant>Kindness, wealth, happiness
+<variant>Power, strength, confidence
+<variant>Beauty, truth, good
+
+<question>Which one is Stoic principle?
+<variantright>Focus on what you control
+<variant>Live for pleasure and well-being
+<variant>Maximize happiness
+<variant>Pursue wealth
+<variant>Indulge in passions
+
+<question>Which one is Hedonistic principle?
+<variant>Focus on what you control
+<variantright>Live for pleasure and well-being
+<variant>Maximize freedom
+<variant>Seek harmony with nature
+<variant>Follow rules strictly
+
+<question>Which one is Pragmatic principle?
+<variantright>Usefulness, practicality, benefit
+<variant>Faith, hope, love
+<variant>Live for pleasure
+<variant>Patience, resilience, tolerance
+<variant>Harmony with nature
+
+<question>What is Epicureanism principle?
+<variant>Focus on spirituality
+<variantright>Live for pleasure and well-being
+<variant>Seek inner peace through faith
+<variant>Live in harmony with society
+<variant>Pursue self-denial
+
+<question>What is Eudemonism principle?
+<variantright>Live a complete and fulfilling life
+<variant>Seek wealth and power
+<variant>Maximize short-term happiness
+<variant>Focus on controlling others
+<variant>Emphasize materialism
+
+<question>Essence of Art in classical sense:
+<variantright>Art is beauty, truth, good
+<variant>Art is entertainment
+<variant>Art is a profession
+<variant>Art is subjective
+<variant>Art is reflection of nature
+
+<question>Essence of Art in Renaissance sense:
+<variant>Art is skill and mastery
+<variantright>Art is expression of spiritual world of artist
+<variant>Art is science
+<variant>Art is propaganda
+<variant>Art is religion
+
+<question>Essence of Art in 17-18 centuries:
+<variant>Art is innovation
+<variantright>Art is representation of reality
+<variant>Art is individuality
+<variant>Art is social criticism
+<variant>Art is storytelling
+
+<question>Essence of Art in contemporary sense:
+<variantright>Art is skill and mastery
+<variant>Art is scientific discovery
+<variant>Art is social agreement
+<variant>Art is subjective opinion
+<variant>Art is reflection of economy
+
+<question>Essence of Art in traditional sense:
+<variantright>Art is beauty, truth, good
+<variant>Art is entertainment
+<variant>Art is skill
+<variant>Art is self-expression
+<variant>Art is imitation
+
+<question>Aesthetic categories of Nietzsche:
+<variantright>Apollonian and Dionysian
+<variant>Beauty and ugliness
+<variant>Tragic and comic
+<variant>Harmony and chaos
+<variant>Truth and illusion
+
+<question>Aesthetic categories of Freud:
+<variantright>Sublimation
+<variant>Expression
+<variant>Representation
+<variant>Rebellion
+<variant>Imitation
+
+<question>Aesthetic categories of Existentialism:
+<variantright>Absurd
+<variant>Harmony
+<variant>Order
+<variant>Sublime
+<variant>Tragic
+
+<question>Aesthetic categories of Plato:
+<variantright>Mimesis
+<variant>Catharsis
+<variant>Sublime
+<variant>Representation
+<variant>Creation
+
+<question>Aesthetic categories of Aristotle:
+<variantright>Catharsis
+<variant>Mimesis
+<variant>Sublimation
+<variant>Absurd
+<variant>Expression
+
+<question>Whose statement is this? – "People are born free or slaves."
+<variantright>Aristotle
+<variant>Plato
+<variant>Socrates
+<variant>Rousseau
+<variant>Hegel
+
+<question>Whose statement is this? – "Freedom is human illusion."
+<variantright>Erasmus
+<variant>Kant
+<variant>Nietzsche
+<variant>Rousseau
+<variant>Hume
+
+<question>Whose statement is this? – "Freedom is realized necessity."
+<variantright>Spinoza
+<variant>Hegel
+<variant>Kant
+<variant>Rousseau
+<variant>Descartes
+
+<question>Whose statement is this? – "Freedom is democracy and equality."
+<variantright>Rousseau
+<variant>Plato
+<variant>Aristotle
+<variant>Kant
+<variant>Hegel
+
+<question>Whose statement is this? – "There is freedom from and freedom for."
+<variantright>Fromm
+<variant>Spinoza
+<variant>Kierkegaard
+<variant>Marx
+<variant>Nietzsche
+
+<question>Which one describes inevitable course of things which are unavoidable:
+<variantright>Fatalism
+<variant>Voluntarism
+<variant>Providentialism
+<variant>Liberalism
+<variant>Determinism
+
+<question>Which one describes individual, civil rights, free enterprise:
+<variantright>Liberalism
+<variant>Voluntarism
+<variant>Determinism
+<variant>Fatalism
+<variant>Providentialism
+
+<question>Which one describes that everything happens due to the objective laws:
+<variantright>Determinism
+<variant>Voluntarism
+<variant>Fatalism
+<variant>Liberalism
+<variant>Providentialism
+
+<question>Which one describes that everything happens due to somebody’s will:
+<variantright>Voluntarism
+<variant>Determinism
+<variant>Fatalism
+<variant>Liberalism
+<variant>Providentialism
+
+<question>Which one describes that everything happens due to God’s will:
+<variantright>Providentialism
+<variant>Determinism
+<variant>Fatalism
+<variant>Liberalism
+<variant>Voluntarism
+
+<question>Tick the criteria of society:
+<variantright>All of them (territory, self-regulation, self-control, integrity)
+<variant>Territory and self-regulation only
+<variant>Integrity and culture only
+<variant>Economy only
+<variant>History only
+
+<question>What is society?
+<variant>A collective imagination
+<variantright>Social system
+<variant>An economic entity
+<variant>A cultural phenomenon
+<variant>A natural phenomenon
+
+<question>Which definition of society is of Social Darwinism?
+<variantright>Society is organism
+<variant>Society is social relations
+<variant>Society is summation of individuals
+<variant>Society is ideal place
+<variant>Society is superstructure
+
+<question>Which definition of society is of Marxism?
+<variant>Society is organism
+<variantright>Society is social relations
+<variant>Society is summation of individuals
+<variant>Society is ideal place
+<variant>Society is superstructure
+
+<question>Which definition of society is of Naturalism?
+<variantright>Society is organism
+<variant>Society is social relations
+<variant>Society is summation of individuals
+<variant>Society is ideal place
+<variant>Society is superstructure

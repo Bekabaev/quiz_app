@@ -1,0 +1,695 @@
+<question>What is the literal meaning of the word "psychology"?
+<variant>Study of psychopathology
+<variant>Study of unconsciousness
+<variant>Study of consciousness
+<variantright>Study of the soul
+<variant>Study of emotions
+
+<question>What is the main subject of general psychology?
+<variant>Human’s bad emotions
+<variantright>Mechanisms of the functioning of the psyche
+<variant>Biological processes in the brain
+<variant>Social interactions
+<variant>Animal’s behavior
+
+<question>Who established the first experimental psychology laboratory?
+<variant>Aristotle
+<variantright>Wilhelm Wundt
+<variant>Ivan Pavlov
+<variant>Carl Jung
+<variant>John Watson
+
+<question>What is the primary focus of behaviorism?
+<variant>Cognitive processes
+<variant>Emotional development
+<variantright>Observable behavior
+<variant>Personality development
+<variant>Neuroscience
+
+<question>What are the research methods used in modern psychology?
+<variant>Myths and legends
+<variant>Psychoanalysis only
+<variant>Introspection and logic
+<variantright>Experimental and diagnostic techniques
+<variant>Observations only
+
+<question>Which school of psychology focuses on the connection between stimulus and response?
+<variant>Depth psychology
+<variantright>Behaviorism
+<variant>Gestalt psychology
+<variant>Cognitive psychology
+<variant>Existential psychology
+
+<question>How is psychology categorized as a science?
+<variant>It studies only philosophical ideas.
+<variantright>It observes, describes, predicts, and explains behavior and mental processes.
+<variant>It focuses solely on experimental findings.
+<variant>It rejects natural sciences.
+<variant>It relies exclusively on introspection.
+
+<question>What is introspection?
+<variant>Observing others' behavior
+<variantright>Looking inward at oneself
+<variant>Asking questions in a survey
+<variant>Conducting experiments
+<variant>Recording natural events
+
+<question>Who used introspection to study consciousness?
+<variant>Burrhus Skinner
+<variantright>Wilhelm Wundt
+<variant>Abraham Maslow
+<variant>Ivan Pavlov
+<variant>Albert Bandura
+
+<question>Which method involves viewing behavior of others without manipulation?
+<variantright>Observation
+<variant>Case study
+<variant>Testing
+<variant>Survey
+<variant>Introspection
+
+<question>What type of data can be obtained through observation?
+<variant>Only qualitative
+<variant>Only quantitative
+<variantright>Both qualitative and quantitative
+<variant>Neither qualitative nor quantitative
+<variant>Hypothetical data
+
+<question>What is a structured survey?
+<variant>Survey with random questions
+<variantright>Survey with a clear purpose and standardized questions
+<variant>Survey that uses technical terms
+<variant>Survey with no specific goal
+<variant>Survey based only on demographic data
+
+<question>What are independent variables in an experiment?
+<variant>Variables that remain constant
+<variantright>Variables that are manipulated by the researcher
+<variant>Variables that are measured as outcomes
+<variant>Variables that cannot change
+<variant>Randomly selected variables
+
+<question>What is the first step in the scientific method?
+<variant>Propose a hypothesis
+<variantright>Observation
+<variant>Publish results
+<variant>Build a theory
+<variant>Test a variable
+
+<question>What is the main purpose of using methods in psychology?
+<variant>To avoid scientific rules
+<variant>To study unrelated phenomena
+<variant>To manipulate behavior
+<variant>To teach ethical principles
+<variantright>To reach a specific research aim
+<question>What is motivation?
+<variant>A method to plan tasks.
+<variantright>The process that initiates, guides, and maintains goal-oriented behaviors.
+<variant>A technique for managing emotions.
+<variant>A form of reward system.
+<variant>A cognitive assessment of outcomes.
+
+<question>Which motivation theory suggests that behaviors are motivated by instincts?
+<variant>Drive Theory
+<variantright>Instinct Theory
+<variant>Self-Determination Theory
+<variant>Humanistic Theory
+<variant>Expectancy Theory
+
+<question>What is a key concept of Drive Theory?
+<variant>People are motivated by their instincts.
+<variantright>People act to reduce internal tension caused by unmet needs.
+<variant>People aim to achieve self-actualization.
+<variant>People are motivated by autonomy and competence.
+<variant>People always act for rewards.
+
+<question>What is a limitation of Instinct Theory of Motivation?
+<variantright>It doesn’t explain behaviors, it just describes it.
+<variant>It doesn’t identify specific instincts.
+<variant>It overemphasizes social factors.
+<variant>It ignores physiological needs.
+<variant>It fails to consider emotional influences.
+
+<question>What are the three key elements of Expectancy Theory of Motivation?
+<variant>Effort, action, and reaction
+<variantright>Valence, instrumentality, and expectancy
+<variant>Intrinsic, extrinsic, and situational motivation
+<variant>Autonomy, competence, and relatedness
+<variant>Emotion, logic, and strategy
+
+<question>What does Maslow’s hierarchy of needs represent?
+<variant>A list of biological drives.
+<variantright>Levels of motivations based on human needs.
+<variant>Stages of emotional development.
+<variant>Steps to achieve cognitive growth.
+<variant>A method for intrinsic motivation.
+
+<question>What is an example of extrinsic motivation?
+<variant>Solving a puzzle for fun
+<variantright>Studying to earn a prize
+<variant>Reading a book for relaxation
+<variant>Learning to satisfy curiosity
+<variant>Exploring new skills for personal growth
+
+<question>Which strategy would be the best for motivating others in a team?
+<variant>Criticize their weaknesses.
+<variantright>Set goals and provide support.
+<variant>Avoid assigning responsibility.
+<variant>Devalue their achievements
+<variant>Focus solely on personal achievements.
+
+<question>Which of the following is the correct order of needs in Maslow’s hierarchy from the most basic to the highest?
+<variant>Self-actualization, Esteem, Love and Belonging, Safety, Physiological
+<variantright>Physiological, Safety, Love and Belonging, Esteem, Self-actualization
+<variant>Physiological, Love and Belonging, Safety, Esteem, Self-actualization
+<variant>Safety, Physiological, Love and Belonging, Esteem, Self-actualization
+<variant>Esteem, Physiological, Safety, Love and Belonging, Self-actualization
+
+<question>Which of the following best describes Mihaly Csikszentmihalyi's concept of "flow"?
+<variant>A state of relaxation achieved through mindfulness and deep breathing.
+<variantright>A state of complete absorption in an activity, where time feels altered, and the task is optimally challenging.
+<variant>A mindset focused on achieving external rewards and recognition.
+<variant>A process of multitasking effectively to maximize productivity.
+<variant>A mental state induced by repetitive physical activity.
+
+<question>What does cognitive psychology study?
+<variant>Physiological processes in the body.
+<variantright>The interaction of human thinking, emotions, creativity, language, and problem-solving.
+<variant>Genetic inheritance and human evolution.
+<variant>Animal behavior in natural environments.
+<variant>The influence of society on individual behavior.
+
+<question>What is an example of a cognitive process?
+<variant>Breathing and blood circulation.
+<variantright>Recognizing environmental stimuli and solving problems.
+<variant>Distributing energy in the body.
+<variant>Regulating body temperature.
+<variant>Producing hormones.
+
+<question>What is the difference between hot and cold cognition?
+<variant>Hot cognition is linked to recognizing, while cold cognition relates to language.
+<variantright>Hot cognition includes emotions, while cold cognition does not involve emotions.
+<variant>Hot cognition works only during sleep, while cold cognition works during wakefulness.
+<variant>Hot cognition is related to genes, while cold cognition is related to culture.
+<variant>Hot cognition happens in stress, while cold cognition happens in normal situations.
+
+<question>Which of the following is NOT a cognitive process?
+<variantright>Breathing.
+<variant>Perception.
+<variant>Memory.
+<variant>Learning.
+<variant>Decision-making.
+
+<question>What does the "g-factor" concept by Charles Spearman mean? (General Intelligence Theory)
+<variant>The ability to develop knowledge in one area only.
+<variantright>General cognitive ability that affects performance on different cognitive tests.
+<variant>Skill specifically in math-related tasks.
+<variant>A group of social factors that influence intelligence.
+<variant>The ability to adapt to physical challenges.
+
+<question>Which of the following is one of the eight types of intelligence proposed by Howard Gardner?
+<variant>Fluid Intelligence
+<variant>Financial Intelligence
+<variantright>Visual-Spatial Intelligence
+<variant>Creative Intelligence
+<variant>Technological Intelligence
+
+<question>What is the ability to recognize emotions in oneself and others called in the context of Emotional Intelligence?
+<variant>Use emotions
+<variantright>Perceive emotions
+<variant>Manage emotions
+<variant>Control emotions
+<variant>Express emotions
+
+<question>According to Cattell’s theory, which of the following best describes fluid intelligence?
+<variant>The ability to use accumulated knowledge and experience.
+<variantright>The ability to learn new things fast and abstractly.
+<variant>The ability to recall facts and general information quickly.
+<variant>The ability to communicate effectively in social situations.
+<variant>The ability to rely on the intelligence and experience of others.
+
+<question>What does the gambler’s fallacy refer to?
+<variant>The belief that a person can control random outcomes because he is just lucky.
+<variantright>The belief that past events affect the probability of future events in a way that contradicts the laws of probability.
+<variant>The assumption that winning streaks are more likely to continue indefinitely.
+<variant>The tendency to bet larger amounts after a series of losses.
+<variant>The belief that luck always balances out in the long run.
+
+<question>One of the cognitive biases:
+<variant>Attraction
+<variantright>Framing effect
+<variant>Decision making
+<variant>Hot cognition
+<variant>Cold cognition
+
+<question>How do smart people see their mistakes?
+<variant>They ignore them.
+<variant>They feel bad and give up.
+<variant>They try not to make mistakes by avoiding risks.
+<variantright>They use mistakes as chances to learn and improve.
+<variant>They blame others for them.
+<question>What is the difference between fluid intelligence and crystallized intelligence?
+<variant>Fluid intelligence is about creativity, and crystallized intelligence is about logic.
+<variant>Crystallized intelligence is something you're born with, but fluid intelligence is something you learn.
+<variant>Fluid intelligence is about memorizing, and crystallized intelligence is about solving puzzles.
+<variantright>Fluid intelligence helps solve new problems, while crystallized intelligence is what you know from past learning.
+<variant>There is no difference.
+
+<question>Why are curious people often seen as smart?
+<variant>They always agree with others.
+<variant>They never ask questions to avoid looking unsure.
+<variant>They only focus on finding what’s wrong.
+<variantright>They ask questions and try to learn about new ideas and possibilities.
+<variant>They stick to things they already understand.
+
+<question>Why do smart people sometimes wait to finish tasks?
+<variant>They don’t care about deadlines.
+<variant>They work better when under pressure.
+<variant>They are bad at managing their time.
+<variantright>They use the time to think of better ideas or solutions.
+<variant>They forget to do the work.
+
+<question>What is «metacognition»?
+<variant>The ability to process information at a faster rate than others.
+<variantright>The ability to think about how you are thinking.
+<variant>The ability to memorize large amounts of information quickly.
+<variant>The ability to understand emotions and manage stress effectively.
+<variant>The ability to perform tasks without making mistakes.
+
+<question>What does perception allow us to do?
+<variant>Make logical decisions.
+<variantright>Interpret and understand sensory information.
+<variant>Remember past events.
+<variant>Solve complex problems.
+<variant>Focus on one task at a time.
+
+<question>What is the function of attention in cognition?
+<variant>To store information for future use.
+<variantright>To focus awareness on specific stimuli.
+<variant>To recall information from memory.
+<variant>To interpret sensory data.
+<variant>To create new concepts.
+
+<question>Which of the following is an example of a real cognitive bias?
+<variant>Problem-solving bias.
+<variant>Memory recall bias.
+<variantright>Confirmation bias.
+<variant>Reasoning bias.
+<variant>Learning new information bias.
+
+<question>Which cognitive bias involves making judgments based on the first piece of information encountered?
+<variant>Availability bias.
+<variant>Self-serving bias.
+<variant>Confirmation bias.
+<variantright>Anchoring bias.
+<variant>Bandwagon effect.
+
+<question>What is the definition of stress in psychology?
+<variant>A purely physical reaction.
+<variantright>A feeling of strain and pressure.
+<variant>A state of euphoria and relaxation.
+<variant>The absence of challenges.
+<variant>A feeling of losing hope.
+
+<question>What is "eustress"?
+<variant>Negative stress causing harm.
+<variantright>Positive stress that motivates and challenges.
+<variant>Chronic stress leading to fatigue.
+<variant>A complete absence of stress.
+<variant>None of the above.
+
+<question>Which is NOT an instinctive stress response due to 4F theory?
+<variant>Fight.
+<variant>Flight.
+<variantright>Flow.
+<variant>Freeze.
+<variant>Fawn.
+
+<question>Which of the following is an example of natural self-regulation?
+<variantright>Interacting with nature.
+<variant>Autogenic training.
+<variant>Breathing techniques.
+<variant>Guided meditation.
+<variant>Cognitive restructuring.
+
+<question>What helps reduce stress factors effectively?
+<variant>Focusing on uncontrollable factors.
+<variant>Ignoring stressors.
+<variantright>Understanding what is under your control.
+<variant>Avoiding self-reflection.
+<variant>Multitasking.
+
+<question>What is the primary goal of regular stress management practices?
+<variant>Avoiding all forms of stress.
+<variant>Suppressing emotional responses.
+<variantright>Understanding and managing stressors effectively.
+<variant>Increasing stress hormones like cortisol.
+<variant>Multitasking to reduce stress.
+
+<question>What does self-approval involve?
+<variant>Seeking validation from others.
+<variant>Ignoring personal achievements.
+<variantright>Affirming positive thoughts about oneself.
+<variant>Avoiding self-reflection entirely.
+<variant>Criticizing one’s outcomes.
+<question>Who is credited with developing the first typology of temperaments in ancient times?
+<variant>Hippocrates
+<variant>Aristotle
+<variant>Immanuel Kant
+<variant>Ivan Pavlov
+<variantright>Claudius Galen
+
+<question>According to Ivan Pavlov, what are the three innate properties of the nervous system that define temperament?
+<variant>Speed, focus, and energy
+<variant>Strength, flexibility, and determination
+<variant>Mobility, agility, and attention
+<variant>Reaction time, patience, and balance
+<variantright>Strength, mobility, and balance
+
+<question>Which temperament thrives on leadership and immediate action?
+<variant>Phlegmatic
+<variant>Melancholic
+<variant>Sanguine
+<variant>None of them
+<variantright>Choleric
+
+<question>What does the term "temperament" primarily refer to in psychology?
+<variant>A learned set of personality traits
+<variant>The social environment of an individual
+<variant>A person's education level
+<variant>Cultural norms
+<variantright>Innate, biologically-based behavioral tendencies
+
+<question>Which philosopher divided temperaments into 'temperaments of feeling' and 'temperaments of activity'?
+<variant>Aristotle
+<variant>Friedrich Nietzsche
+<variant>Socrates
+<variant>Descartes
+<variantright>Immanuel Kant
+
+<question>Which temperament is described as being calm, analytical, and systematic in problem-solving?
+<variant>Sanguine
+<variant>Choleric
+<variant>Melancholic
+<variant>Unpredictable
+<variantright>Phlegmatic
+
+<question>What type of temperament is most likely to quickly adapt to new plans or circumstances?
+<variant>Phlegmatic
+<variant>Melancholic
+<variant>Choleric
+<variant>Inflexible
+<variantright>Sanguine
+
+<question>What is the primary distinction between temperament and character?
+<variant>Temperament changes significantly, while character is static.
+<variant>Temperament is based on socialization, while character is innate.
+<variant>Temperament involves core values, while character does not.
+<variant>Temperament develops through life experience, while character does not.
+<variantright>Temperament is biological, while character is shaped by life experiences.
+
+<question>Which temperament needs structure and emotional support to thrive?
+<variant>Sanguine
+<variant>Phlegmatic
+<variant>Choleric
+<variant>Unpredictable
+<variantright>Melancholic
+
+<question>Which of the following best defines personality?
+<variant>A set of physical characteristics that make a person unique
+<variantright>The characteristic patterns of thoughts, feelings, and behaviors that make a person unique
+<variant>A person's social media presence and public image
+<variant>The sum of a person's professional achievements
+<variant>A collection of temporary emotional states
+
+<question>In Freud's theory of personality, which component operates on the "pleasure principle"?
+<variant>Ego
+<variant>Superego
+<variantright>Id
+<variant>Shadow
+<variant>Persona
+
+<question>In Freud's theory of personality, which component operates on the "principle of morality"?
+<variant>Ego
+<variantright>Superego
+<variant>Id
+<variant>Anima
+<variant>Animus
+
+<question>In Freud's theory of personality, which component operates on the "reality principle"?
+<variantright>Ego
+<variant>Superego
+<variant>Id
+<variant>Anima
+<variant>Shadow
+
+<question>What is the main function of Jung's "Persona" archetype?
+<variant>It represents our animal instincts
+<variantright>It is the outward face we present to the world
+<variant>It connects us to our unconscious mind
+<variant>It represents our true self
+<variant>None of the above
+
+<question>What does Jung's "Shadow" archetype primarily represent?
+<variant>The social roles we play
+<variantright>The hidden, repressed aspects of our psyche
+<variant>The creative, intuitive part of our mind
+<variant>The collective unconscious
+<variant>None of the above
+
+<question>Which of the following best reflects the relationship between the "Shadow" and the "Persona" in Jung’s theory?
+<variant>They are identical in function
+<variantright>They are opposites that complement each other
+<variant>They are both repressed aspects of the psyche
+<variant>The Persona directly replaces the Shadow
+<variant>None of the above
+
+<question>In Eric Berne's Transactional Analysis, which personality state is characterized by logic, reasoning, and analyzing situations?
+<variant>Parent
+<variant>Child
+<variantright>Adult
+<variant>Superego
+<variant>Shadow
+
+<question>What does the "Parent" state in Berne's Transactional Analysis primarily reflect?
+<variant>Spontaneous feelings and impulses
+<variantright>Learned rules, values, and behaviors
+<variant>Logical reasoning and problem-solving
+<variant>Subconscious desires
+<variant>None of the above
+
+<question>Which of the following best describes the "Child" state due to Berne's Theory?
+<variant>It regulates emotions logically
+<variant>It fully replaces the "Parent" state
+<variantright>It expresses creativity, emotions, and spontaneity
+<variant>It analyzes and processes information
+<variant>None of the above
+
+<question>Which personality state in Berne’s theory is best suited for solving problems in an objective manner?
+<variant>Parent
+<variant>Child
+<variantright>Adult
+<variant>Shadow
+<variant>Superego
+<question>Which of the Big Five personality traits is associated with being organized, responsible, and goal-directed?
+<variant>Openness
+<variant>Extraversion
+<variant>Agreeableness
+<variantright>Conscientiousness
+<variant>Neuroticism
+
+<question>Which of the Big Five personality traits reflects a tendency to experience emotions such as anxiety, anger, and sadness?
+<variant>Extraversion
+<variantright>Neuroticism
+<variant>Openness
+<variant>Agreeableness
+<variant>Conscientiousness
+
+<question>Which Big Five trait is linked to being imaginative, curious, and open to new experiences?
+<variant>Agreeableness
+<variant>Extraversion
+<variant>Conscientiousness
+<variantright>Openness
+<variant>Neuroticism
+
+<question>What does the "Extraversion" trait in the Big Five describe?
+<variant>A preference for solitude and reflection
+<variantright>A tendency to seek social interaction and energy from others
+<variant>A focus on organization and planning
+<variant>A disposition towards anxiety and moodiness
+<variant>A concern for others' well-being
+
+<question>Which of the Big Five traits is characterized by trust, kindness, and a cooperative nature?
+<variant>Conscientiousness
+<variant>Openness
+<variantright>Agreeableness
+<variant>Extraversion
+<variant>Neuroticism
+
+<question>What is self-concept?
+<variant>The way others perceive you
+<variant>Your physical appearance
+<variantright>Your answer to the question "Who am I?"
+<variant>Your professional achievements
+<variant>Your social status
+
+<question>Which personality type in Jung's theory represents the unconscious feminine side in males and masculine tendencies in women?
+<variant>Shadow
+<variant>Persona
+<variant>Self
+<variantright>Anima/Animus
+<variant>Ego
+
+<question>What is personal development?
+<variant>A random process of improving life.
+<variant>A single event that transforms a person.
+<variantright>A deliberate effort to improve life.
+<variant>Attending personal growth courses.
+<variant>Lifelong self-education without specific goals.
+
+<question>Which statement about self-awareness is correct?
+<variant>Self-awareness helps avoid mistakes.
+<variant>It is the analysis of other people’s actions.
+<variantright>Self-awareness includes understanding emotions, thoughts, and behaviors.
+<variant>It is unnecessary for personal growth.
+<variant>Self-awareness is limited to analyzing past experiences.
+
+<question>Which techniques will help to develop self-awareness the best way?
+<variant>Playing games and having fun.
+<variantright>Journaling and meditation.
+<variant>Watching movies about fiction heroes.
+<variant>Constantly working on projects.
+<variant>Spontaneous conversations and small-talks.
+
+<question>What are the benefits of increased self-awareness?
+<variantright>Better emotional regulation and decision-making.
+<variant>Faster learning of technical skills.
+<variant>The ability to avoid all negative emotions.
+<variant>Complete elimination of personal weaknesses.
+<variant>Greater reliance on others for decisions.
+
+<question>How can a growth mindset influence personal development?
+<variant>By encouraging a focus on innate talent over effort.
+<variantright>By promoting resilience and learning from setbacks.
+<variant>By avoiding challenges to prevent failure.
+<variant>By believing abilities cannot be improved.
+<variant>By eliminating the need for continuous learning.
+
+<question>What is a characteristic of a fixed mindset?
+<variant>Viewing failure as an opportunity to grow.
+<variantright>Believing abilities are too hard to change.
+<variant>Embracing challenges and persisting through setbacks.
+<variant>Rewarding effort and learning from mistakes.
+<variant>Viewing effort as a pathway to mastery.
+
+<question>Which technique helps time management?
+<variant>Working without breaks to maximize productivity.
+<variantright>The Pomodoro Technique and time-blocking.
+<variant>Avoiding task prioritization.
+<variant>Focusing on multiple tasks at once.
+<variant>Procrastinating with the hope problems will just go away.
+
+<question>What does prioritization in time management involve?
+<variant>Ignoring important tasks to focus on urgent ones.
+<variantright>Using tools like the Eisenhower Matrix to identify key tasks.
+<variant>Completing all tasks simultaneously.
+<variant>Avoiding setting boundaries to save time.
+<variant>Spending equal time on every activity.
+
+<question>What is one way to overcome imposter syndrome?
+<variant>Avoid challenging tasks to feel secure.
+<variantright>Focus on recognizing your efforts and contributions.
+<variant>Assume your success is due to external factors.
+<variant>Avoid feedback and constructive criticism.
+<variant>Stop acknowledging your achievements.
+
+<question>What is intrinsic motivation?
+<variant>Motivation driven by external rewards.
+<variantright>Motivation that comes from within, like a passion for a task.
+<variant>Motivation that depends on peer approval.
+<variant>Motivation based on competition with others.
+<variant>Motivation that fades without external pressure.
+
+<question>What is a benefit of identifying personal values?
+<variant>Making random choices based on circumstances.
+<variantright>Aligning goals with what is meaningful to you.
+<variant>Focusing solely on extrinsic rewards.
+<variant>Ignoring intrinsic motivation in decision-making.
+<variant>Relying on others to define your priorities.
+
+<question>Which example demonstrates a growth mindset?
+<variant>Giving up when faced with difficulty.
+<variantright>Viewing challenges as opportunities to improve.
+<variant>Believing you cannot develop new skills.
+<variant>Avoiding mistakes by not taking risks.
+<variant>Sticking only to what you already know.
+
+<question>Which of the following best defines assertive behavior?
+<variant>Dominating others to ensure your needs are met, even at their expense.
+<variant>Avoiding conflict by prioritizing the needs of others over your own.
+<variantright>Expressing your thoughts, feelings, and needs honestly and respectfully while respecting others' rights.
+<variant>Ignoring others’ opinions and focusing solely on your own perspective.
+<variant>Remaining silent to avoid expressing disagreement or dissatisfaction.
+
+<question>What is the “Halo Effect”?
+<variantright>Overgeneralizing based on one positive trait.
+<variant>Judging based on stereotypes.
+<variant>Projecting your emotions onto others.
+<variant>Focusing on first impressions.
+<variant>Avoiding non-verbal cues.
+
+<question>What do crossed arms during a conversation often indicate?
+<variant>Confidence.
+<variantright>Disagreement.
+<variant>Politeness.
+<variant>Happiness.
+<variant>Attractiveness.
+
+<question>What is the primary function of feedback in communication?
+<variant>To overwhelm sender.
+<variantright>To clarify the message and ensure understanding.
+<variant>To increase the length of the communication process.
+<variant>To control the emotions of the receiver.
+<variant>To confirm the receiver’s agreement.
+
+<question>How can nonverbal cues contradict verbal communication?
+<variant>By increasing the clarity of the message.
+<variant>By demonstrating active listening.
+<variantright>By conveying a different emotion than the words spoken.
+<variant>By reinforcing the sender’s message.
+<variant>By maintaining a neutral tone.
+
+<question>What are the 3 sides of communication?
+<variant>Communicative, Interactive, Behavioral.
+<variantright>Interactive, Communicative, Perceptive.
+<variant>Communicative, Perceptual, Symbolic.
+<variant>Interactive, Analytical, Emotional.
+<variant>Perceptive, Reactive, Logical.
+
+<question>What is the best way to improve communication skills?
+<variant>Avoiding feedback to maintain control over the conversation.
+<variantright>Practicing active listening and asking clarifying questions.
+<variant>Focusing only on nonverbal communication.
+<variant>Using complex vocabulary to seem more authoritative.
+<variant>Communicating only when necessary.
+
+<question>Which skill is the most crucial for the perceptual side of communication?
+<variant>Persuasion.
+<variantright>Active listening.
+<variant>Critical thinking.
+<variant>Creative storytelling.
+<variant>Emotional detachment.
+
+<question>What is NOT a principle from 4 principles of communication?
+<variantright>The More You Communicate the Smarter You Are.
+<variant>The Message Sent is Not Always the Message Received.
+<variant>It is Impossible Not to Communicate.
+<variant>Every Message Has Content and Feeling.
+<variant>Nonverbal Cues Are More Believable.
+
+<question>Which of the following is NOT one of the 4 rules for overcoming communication barriers?
+<variant>Be Clear: Avoid using vague words and jargon.
+<variant>Know Your Audience: Match your message to the listener's background.
+<variantright>Stay Flexible: Change your opinion only if it benefits you.
+<variant>Be Open: Understand the other person’s point of view.
+<variant>Consider the Time and Place: Deliver the message in the right context.

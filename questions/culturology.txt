@@ -1,0 +1,526 @@
+<question>Subject of cultural studies?
+<variant>Society
+<variantright>Culture of a society, a person
+<variant>Civilizations
+<variant>Politics
+<variant>Philosophy and rhetoric
+<question>What does the mean Greek term "paidea"?
+<variantright>Education, training, enlightenment
+<variant>City-state
+<variant>Community
+<variant>Civilization
+<variant>Athenian polity
+<question>What is characteristic of views on culture in Antiquity?
+<variantright>Cosmocentrism
+<variant>Theocentrism
+<variant>Anthropocentrism
+<variant>Creationism
+<variant>Communism
+<question>What is typical in the views on culture in the Middle Ages?
+<variant>Cosmocentrism
+<variantright>Theocentrism
+<variant>Anthropocentrism
+<variant>Hylozoism
+<variant>Communism
+<question>The content of spiritual culture is:
+<variant>Models
+<variant>Layouts
+<variantright>Code of Conduct
+<variant>Inventions
+<variant>Love for neighbor
+<question>The content of material culture is:
+<variantright>Labor Products
+<variant>Love for neighbor
+<variant>Customs
+<variant>Spiritual values
+<variant>Psychological models
+<question>Culture and civilization:
+<variantright>Civilization is broader than the concept of culture
+<variant>The concepts are identical
+<variant>Culture is broader than the concept of civilization
+<variant>Exclude each other
+<variant>Customs and traditions
+<question>The representative of the neo-Freudian concept of culture is:
+<variant>E. Gusserl
+<variant>E. Cassirer
+<variantright>K. Jung
+<variant>Z. Freud
+<variant>A. Camus
+<question>The global problem of our time is:
+<variant>The problem of lack of spirituality
+<variant>Aesthetic problem
+<variant>The problem of counterculture development
+<variantright>Demographic problem
+<variant>Stopped believing in God
+<question>A characteristic feature of primitive culture:
+<variant>Realism
+<variant>Grace
+<variant>Romanticism
+<variantright>Syncretism
+<variant>Creationism
+<question>A characteristic feature of the culture of Ancient India:
+<variantright>Teaching about karma and samsara
+<variant>Man's possession of three souls (Ka, Ba, Ah)
+<variant>The emergence of pictographic writing
+<variant>Making mummies
+<variant>Medicine
+<question>The main feature of the culture of Ancient China is:
+<variantright>Confucianism
+<variantright>Taoism
+<variant>Shintoism
+<variant>"Sacred traditions" sutras
+<variant>Deification of Emperor Jin
+<question>Ancient culture is called:
+<variantright>Culture of Ancient Rome
+<variant>Ancient Sumerian culture
+<variant>Ancient Chinese culture
+<variant>Ancient Egyptian culture
+<variant>Culture of Ancient Babylon
+<question>Diogenes was a philosopher:
+<variant>Ancient Babylonia
+<variant>Ancient Egypt
+<variantright>Ancient Greece
+<variant>Ancient China
+<variant>Ancient Rome
+<question>The cultural life of medieval Europe was determined by:
+<variant>Orthodoxy
+<variant>Islam
+<variantright>Christianity
+<variant>Buddhism
+<variant>Epicureanism
+<question>The great representative of the Renaissance culture is:
+<variant>Mozart
+<variantright>Lorenzo Valla
+<variant>Ludwig van Beethoven
+<variant>John Locke
+<variant>Rene Descartes
+<question>An outstanding representative of the French Enlightenment is:
+<variant>Hugo
+<variant>Spinoza
+<variant>Fouquet
+<variantright>Voltaire
+<variantright>Russo
+<question>Christianity in Russia was adopted:
+<variant>Yaroslav the Wise
+<variant>Vladimir Monomakh
+<variantright>Prince Vladimir
+<variant>Oleg the Wise
+<variant>Svyatopolk the Brave
+<question>What is the name of the early form of religion associated with the worship of any real objects and endowing them with supernatural properties?
+<variantright>Fetishism
+<variant>Totemism
+<variant>Anemism
+<variant>Legism
+<variant>Populism
+<question>What was the name of the "capital" of the Italian Renaissance?
+<variant>Rome
+<variant>Naples
+<variantright>Florence
+<variant>Lisbon
+<variant>Turin
+<question>Note the culture, which, according to Danilevsky, showed itself quite fully in the development of science and technology:
+<variant>Greek culture
+<variant>Chinese culture
+<variantright>European culture
+<variant>Indian culture
+<variant>Kazakh culture
+<question>Select the title of the work of the German philosopher O. Spengler, in which he outlined his views on culture:
+<variant>"Power and morality"
+<variantright>"The Decline of Europe"
+<variant>“Society, culture and personality”
+<variant>“Totem and taboo”
+<variant>“The study of history”
+<question>Who identifies the concepts of "civilization" and "culture"?
+<variant>L. White
+<variantright>P. Sorokin
+<variant>A. Toynbee
+<variant>O. Spengler
+<variant>N. Danilevsky
+<question>Who understood culture as something lying between life and death, opposing them and connecting them?
+<variant>I. Huizing
+<variantright>O. Spengler
+<variant>Hegel
+<variant>A. Toynbee
+<variant>Plato
+<question>In what century the term "civilization" was introduced into scientific circulation?
+<variant>XVIII
+<variant>XVI
+<variantright>XIX
+<variant>XX
+<variant>XXI
+<question>The main feature of popular culture:
+<variantright>Appeared with the development of the media
+<variant>Accompanies the entire history of mankind
+<variant>A product of totalitarian societies
+<variant>Originated in ancient Rome as a spectacle for the people
+<variant>Originated in Ancient China
+<question>The emergence of popular culture was the result of:
+<variantright>Industrialization
+<variant>Communism
+<variant>Discoveries in science
+<variant>Space exploration
+<variant>Wartime
+<question>The seriality of mass culture is expressed:
+<variant>In a narrow circle of consumers
+<variantright>In the presence of a large circulation, of the same type
+<variant>In the uniqueness of each piece
+<variant>The inaccessibility of works for the majority of the population
+<variant>Limited edition
+<question>The goal of the creators of mass culture:
+<variant>Express your attitude
+<variant>Show the cons of culture
+<variant>Discover new art or musical forms
+<variantright>Earn money and benefit
+<variant>Get aesthetic pleasure
+<question>The biggest role in the dissemination of works of mass culture is played by:
+<variant>Radio
+<variant>Newspapers
+<variant>Billboard
+<variant>Advertising
+<variantright>Internet
+<question>Which scientist introduced the term "cultural configuration", designating a special way of connecting the elements of culture that create a single whole culture, and believing that cultural configuration is a consequence of a unique historical process?
+<variant>M. Mead
+<variant>A. Kardiner
+<variantright>R. Benedict
+<variant>P. Sorokin
+<variant>S. L. Frank
+<question>A concept that characterizes the features of the production of cultural values in a modern industrial society, designed for mass consumption:
+<variant>Elite culture
+<variantright>Mass culture
+<variant>Material culture
+<variant>Pop culture
+<variant>Ancient culture
+<question>What is the name of the process of mutual influence of cultures, as well as the result of this influence, which consists in the perception of one of the cultures usually less developed, although the opposite influence is possible of the elements of the other, or in the emergence of new cultural phenomena?
+<variant>Catharsis
+<variant>Conformism
+<variant>Mimesis
+<variantright>Acculturation
+<variant>Hedonism
+<question>In what order has the system of values developed by culture developed historically?
+<variant>Religion, myth, science, philosophy
+<variant>Science, religion, philosophy. myth
+<variant>Philosophy, myth, religion, science
+<variantright>Myth, religion, philosophy, science
+<variant>Science, philosophy, myth, religion
+<question>What is the name of the early form of religion, the essence of which consists in the worship of any animal or plant and in the belief in its origin from them?
+<variant>Animism
+<variantright>Totemism
+<variant>Fetishism
+<variant>Magic
+<variant>Shaman
+<question>We know that the word "Renaissance" means rebirth, but from what language is it translated?
+<variant>Latin
+<variantright>French
+<variant>Old English
+<variant>Italian
+<variant>Germany
+<question>Secular humanists believed that the ____________ should not rule civic matters.
+<variant>Nobility
+<variantright>Church
+<variant>Absolute monarchs
+<variant>Non-elected assemblies
+<variant>God
+<question>The word "Renaissance" comes from the French word meaning:
+<variantright>Reborn
+<variant>Remade
+<variant>Repeat
+<variant>Recreated
+<variant>Recreation
+<question>Interest in what era lead to the start of the Renaissance?
+<variant>Prehistoric Era
+<variant>Elizabethan Era
+<variant>Medieval Era
+<variant>Modern Era
+<variantright>Classical Era
+<question>The new philosophy of the Renaissance moved away from spiritual values and was called:
+<variantright>Humanism
+<variant>Humanity
+<variant>Humus
+<variant>Humor
+<variant>Amour
+<question>The Renaissance started in Italy because:
+<variant>Italy was the heart of the old Roman Empire and the remains of old buildings were there to remind people.
+<variant>Italy was a busy trade center
+<variant>The families of the Italian city states had money and time to spend on developing culture
+<variant>They were familiar with the ancient knowledge of philosophy and culture
+<variantright>All of the above
+<question>Which Renaissance musical instrument most sounded like a modern guitar?
+<variant>Gamba
+<variant>Guitar
+<variant>Dulcimer
+<variantright>Lute
+<variant>Rebec
+<question>When the Italian Renaissance mathematician Leonardo Fibonacci invented the ratio called the "Golden Mean", it was applied mostly to what shape?
+<variant>Squares
+<variant>Disks
+<variant>Circles
+<variant>Ovoids
+<variantright>Rectangles
+<question>In Elizabethian England, what occupation would a person have if he were a warrener?
+<variantright>The man who catches rabbits on your land
+<variant>The man who is in charge on maintaining the armor for you horses
+<variant>The man who arrests peasants for minor violations of the law on your land
+<variant>The man who catches blackbirds for the pastry chef
+<variant>The man who can enjoy and relax after war
+<question>Not all Roman Catholics approved of the luxurious living of church officials during the Renaissance. What happened to the outspoken critic, the monk named Girolamo Savonarola?
+<variant>He became Pope
+<variant>He was elected domo of Venice
+<variant>He was canonized
+<variantright>He was burned at the stake
+<variant>He became King
+<question>On the ceiling of the Sistine Chapel, in one of Michelangelo’s magnificent frescos, it show God reaching out and touching ________.
+<variantright>Adam, the first human
+<variant>The sun
+<variant>A company of angels
+<variant>A pack of wolfs
+<variant>The earth
+<question>Who in the religious cult of the Egyptians took first place?
+<variant>The deified pharaoh
+<variant>God of the Moon, he is also the god of writing
+<variantright>Sun God - Ra, king and father of the gods
+<variant>God Osiris - the god of death and resurrection of nature
+<variant>Isis - the goddess of fertility and motherhood
+<question>What is the name of one of the central concepts of ancient culture, denoting the harmony of the external and the internal, which is the condition for the beauty of the individual. It was reflected in ancient art as the ideal of physical and moral perfection in Phidias, Poliklet, Sophocles and Plato?
+<variantright>Calocagatia
+<variant>Mimesis
+<variant>Catharsis
+<variant>Canon
+<variant>Pros
+<question>What is catharsis?
+<variant>A system of norms and rules
+<variantright>Purification through suffering and fear
+<variant>Harmony
+<variant>Consonance
+<variant>Exhaustion
+<question>The sculptural decoration of the Athenian Acropolis was created:
+<variant>Praxitel
+<variantright>Phidiem
+<variant>Polyclete
+<variant>Miron
+<variant>Cephalus
+<question>What is the name of the religion that was widespread in ancient times in Central Asia, Iran, Afghanistan, Azerbaijan and a number of countries of the Near and Middle East, for which the Avesta is the sacred law?
+<variant>Taoism
+<variant>Shinto
+<variant>Jainism
+<variantright>Zoroastrianism
+<variant>Islam
+<question>The term "Hellenism" refers to a certain Greek-Oriental syncretism, which was the result of:
+<variant>The mass migration of Greeks in the VIII-VII centuries. BC e. in the region of Italy
+<variant>Peloponnesian War 431-404 BC e.
+<variantright>The aggressive policy of Alexander the Great
+<variant>During the marathon battle between Greeks and Persians
+<variant>After the Romans were able to conquer Greece
+<question>The caste system is a common feature of many ancient Eastern civilizations, but in one state it manifested itself with the greatest force. What is this state of the Ancient East?
+<variant>China
+<variantright>India
+<variant>Babylon
+<variant>Persia
+<variant>Mongolia
+<question>In medieval society formed:
+<variantright>Church culture
+<variant>Spiritual culture
+<variant>National culture
+<variant>Mass culture
+<variant>Populist culture
+<question>Ancient Roman philosopher, author of the work “On the City of God”, in which he put forward the idea of the universality of the history of the development of mankind in accordance with the will of God?
+<variant>Tertullian
+<variant>Marcus Aurelius
+<variantright>St. Augustine
+<variant>Boethius
+<variant>Thomas Aquinas
+<question>What pagan god, according to the beliefs of the ancient Slavs, was the creator of the universe?
+<variant>Yarilo
+<variant>Kupala
+<variantright>Rod
+<variant>Svarog
+<variant>Veles
+<question>What was the capital of the Italian Renaissance called?
+<variant>Rome
+<variant>Naples
+<variantright>Florence
+<variant>Paris
+<variant>Berlin
+<question>What themes of knightly and courtly poetry were the main ones?
+<variant>Poetic chanting of everyday life
+<variant>Chanting of military exploits
+<variant>Chanting and praising God
+<variantright>Chanting of knightly honor, valor, respect for a woman
+<variant>Chanting peace and money
+<question>What is one of the major trends in Christianity that took shape during the Reformation in the 16th century:
+<variantright>Protestantism
+<variant>Catholicism
+<variant>Baptism
+<variant>Christianity
+<variant>Thomism
+<question>The "Great Schism" between the Eastern (Greek Catholic) and Western (Roman Catholic) Christian churches took place in:
+<variant>1014
+<variantright>1054
+<variant>1094
+<variant>1154
+<variant>988
+<question>What is semiotics?
+<variant>The science of knowledge
+<variantright>The science of sign systems
+<variant>The science of thinking right
+<variant>The science of Interpretation
+<variant>The science of Values
+<question>The most significant work of F. de Saussure was ...
+<variantright>General linguistics course
+<variant>The apology of Socrates
+<variant>Being and time
+<variant>The first decade of Titus Libya
+<variant>Structural anthropology
+<question>F. de Saussure believed that language and speech ...
+<variantright>Must be studied together
+<variant>Must be studied separately
+<variant>Shouldn't study
+<variant>All options are correct
+<question>F. de Saussure suggested calling the science of signs ...
+<variant>Epistemology
+<variantright>Semiotics
+<variant>Semantics
+<variant>Praxeology
+<question>What American philosopher tried to characterize a number of important semiotic concepts?
+<variantright>Charles Pierce
+<variant>John Locke
+<variant>Richard Avenarius
+<variant>Jacques Derrida
+<variant>Thomas Kuhn
+<question>F. de Saussure believed that ...
+<variant>Language and speech are two sides of speech activity
+<variantright>Language and speech activity - two sides of speech
+<variant>Speech and speech activity are two sides of language
+<variant>No answer is correct
+<question>Which of the cultural concepts of the XX century includes:
+<variant>Atheistic
+<variant>Realistic
+<variant>Rationalistic
+<variantright>Symbolic
+<variant>Gnosis
+<question>The ancient Eastern type of culture is expressed:
+<variant>in a democracy
+<variantright>in the deification of power
+<variant>in individualism
+<variant>in humanism
+<question>The culture of the ancient Sumerians is characterized by:
+<variantright>Cuneiform
+<variant>Erection of pyramids
+<variant>Pictography
+<variant>Denial of death
+<question>The source of the creed of Islam is:
+<variant>Bible
+<variant>Gospel
+<variant>Sutras
+<variantright>Quran and Sunnah
+<question>The main duties of a Muslim include:
+<variantright>Hajj or Umrah
+<variant>Unction
+<variant>Meditation
+<variant>Communion
+<question>Muslim countries include:
+<variant>Israel
+<variantright>Iraq
+<variant>Japan
+<variant>China
+<variantright>Brunei
+<question>Ancient Greek culture reaches its peak:
+<variant>in the Crete-Mycenaean period
+<variant>in the Homeric period
+<variantright>in the classical period
+<variant>in the archaic period
+<question>Socrates is a philosopher:
+<variant>Ancient Babylonia
+<variant>Ancient Egypt
+<variantright>Ancient Greece
+<variant>Ancient China
+<question>An outstanding representative of the French Enlightenment is:
+<variant>Hugo
+<variant>Spinoza
+<variant>Fouquet
+<variantright>Voltaire
+<question>The homeland of romanticism is:
+<variantright>France
+<variant>Italy
+<variant>England
+<variant>Germany
+<question>Classicism is a direction that has developed:
+<variant>in Russian culture
+<variant>in German culture
+<variant>in English culture
+<variantright>in French culture
+<question>The geopolitical factor of Russian culture is:
+<variant>the status of civilization of developed capitalism
+<variantright>the status of the largest land civilization
+<variant>the status of a civilization with a developed industry
+<variant>status of a minority civilization
+<question>The concept of "noosphere", introduced into scientific use by V.I. Vernadsky is:
+<variant>troposphere and stratosphere
+<variant>the shell of the Earth that goes behind the atmosphere
+<variantright>a new evolutionary state of the biosphere, in which the rational activity of man becomes the decisive factor in its development
+<variant>open space
+<question>What was the name of the culture founded in the Eastern Roman Empire?
+<variantright>Byzantine culture
+<variant>Roman culture
+<variant>Greek culture
+<variant>World culture
+<variant>European culture
+<question>Nausea belongs to:
+<variant>A. Camus
+<variant>F. Kafka 
+<variantright>J-P. Sartre
+<variant>M. Proust
+<variant>G.Hegel 
+<question>What theory underlies Surrealism?
+<variant>Adler
+<variantright>Freud
+<variant>Lombroso
+<variant>Fromm
+<variant>Jung
+<question>One of the leaders of the Mexican Communist Party was:
+<variant>Merido
+<variantright>Rivera
+<variant>Orozco
+<variant>Siqueiros
+<variant>Trotsky
+<question>The main content of pop art is:
+<variant>Mysticism
+<variantright>Erasing the distance between mass and elite culture
+<variant>Increased attention to social issues
+<variant>Experimenting with color
+<variant>Love for aesthetics
+<question>The main carrier of beauty, according to socialist realists was:
+<variantright>People
+<variant>Intelligentsia
+<variant>Army
+<variant>Priests and priests
+<variant>President
+<question>Nobel Prize winners are writers:
+<variantright>Sholokhov
+<variant>Aitmatov
+<variant>Astafiev
+<variant>Tolstoy
+<variant>Esenin
+<question>The "golden" age of Russian culture is considered
+<variantright>XIX century
+<variant>18th century
+<variant>XX century
+<variant>XVII century
+<variant>ХVI century
+<question>Russian culture was formed on the basis of:
+<variant>Aztec ethnic group
+<variant>Etruscan ethnic group
+<variant>Nenets ethnic group
+<variantright>Turkic ethnic group
+<variant>Chinese ethnic group
+<question>Towards a new trend in Western European art of the 20th century. applies to:
+<variant>Symbolism
+<variant>Impressionism
+<variantright>Cubism
+<variant>Baroque
+<variant>Rocco
+<question>Epictetus is a philosopher:
+<variant>Ancient Babylonia
+<variant>Ancient Egypt
+<variant>Ancient Greece
+<variant>Ancient China
+<variantright>Ancient Rome

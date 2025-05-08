@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+
+{% block content %}
+{% if finished %}
+    <h2>Удачи на сесии</h2>
+    <p>Your score: {{ score }}/{{ total }}</p>
+    <form method="POST">
+        <button type="submit" name="restart">Restart Quiz</button>
+        <select name="category">
+            <option value="culturology" {% if category == 'culturology' %}selected{% endif %}>Culturology</option>
+            <option value="psychology" {% if category == 'psychology' %}selected{% endif %}>Psychology</option>
+            <option value="philosophy" {% if category == 'philosophy' %}selected{% endif %}>Philosophy</option>
+        </select>
+        <button type="submit" name="change_category">Change Category</button>
+    </form>
+    <a href="{{ url_for('home') }}">Back to Home</a>
+{% else %}
+    <h2>Question {{ current_question }}/{{ total_questions }}</h2>
+    <p>Score: {{ score }} (Correct)</p>
+    <p>Incorrect: {{ current_question - score - 1 if current_question > 0 else 0 }}</p>
+    <h2 class='questions'>{{ question }}</h2>
+    <form method="POST">
+        {% for option in options %}
+            <div class='options'>
+                <input type="radio" id="{{ option }}" name="answer" value="{{ option }}" required>
+                <label for="{{ option }}">{{ option }}</label>
+            </div>
+        {% endfor %}
+        <button type="submit" class='submit'>Submit</button>
+    </form>
+    <p style="color: {{ 'green' if feedback == 'Correct!' else 'red' }};">{{ feedback }}</p>
+
+    <form method="POST" style="margin-top: 20px;">
+        <button type="submit" name="restart">Restart Quiz</button>
+        <select name="category" class = 'category'>
+            <option value="culturology" {% if category == 'culturology' %}selected{% endif %}>Culturology</option>
+            <option value="psychology" {% if category == 'psychology' %}selected{% endif %}>Psychology</option>
+            <option value="philosophy" {% if category == 'philosophy' %}selected{% endif %}>Philosophy</option>
+        </select>
+        <button type="submit" name="change_category">Change Category</button>
+    </form>
+
+{% endif %}
+{% endblock %}

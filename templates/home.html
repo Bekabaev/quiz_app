@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h2>Предмет</h2>
+<ul>
+    <li><a href="{{ url_for('quiz', category='culturology') }}">Culturology</a></li>
+    <li><a href="{{ url_for('quiz', category='psychology') }}">Psychology</a></li>
+    <li><a href="{{ url_for('quiz', category='philosophy') }}">Philosophy</a></li>
+    <li><a href="{{ url_for('quiz', category='economy') }}">Economy</a></li>
+
+</ul>
+{% endblock %}
